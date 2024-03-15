@@ -1,0 +1,31 @@
+{
+  "sorular":[
+  {
+   "soru": "Nereye Gitmek İstiyorsun? ",
+    "cevap":"Yukarı"
+  },
+
+    {
+      "soru": "Nereye Gitmek İstiyorsun? ",
+    "cevap":"Aşağı"
+    },
+
+
+    {
+
+      "soru": "Nereye Gitmek İstiyorsun? ",
+    "cevap":"Sağa"
+    },
+
+    {
+      "soru": "Nereye Gitmek İstiyorsun? ",
+    "cevap":"Sola"
+
+    }
+
+
+  ]
+
+
+
+}
